@@ -3,5 +3,3 @@ homeless-resource-finder challenge
 
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-
-# KEEPER OF THE KODE
