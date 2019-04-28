@@ -4,4 +4,4 @@ homeless-resource-finder challenge
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-<p style="text-align: center;">KEEPER OF THE KOD</p>
+# KEEPER OF THE KODE
